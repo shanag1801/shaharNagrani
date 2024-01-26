@@ -1,14 +1,10 @@
 package com.example.layoutdraft;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-
 import android.annotation.SuppressLint;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.text.Layout;
 import android.view.View;
-import android.widget.RelativeLayout;
 import android.widget.Switch;
 
 @SuppressLint("UseSwitchCompatOrMaterialCode")
